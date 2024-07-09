@@ -10,7 +10,6 @@ This is a simple Amazon clone created using HTML and CSS. The project aims to re
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 
@@ -69,10 +68,6 @@ Contributions are welcome! If you have any improvements or new features to add, 
 3. Make your changes and commit them: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature-name`
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
