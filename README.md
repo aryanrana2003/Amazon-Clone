@@ -5,7 +5,6 @@ This is a simple Amazon clone created using HTML and CSS. The project aims to re
 
 ## Table of Contents
 
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
